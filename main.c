@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 int main(){
-
+    
+    printf("TEstando no VSCode!\n");
     int tam = 5;
     int matriz[tam][tam], soma[tam], multiplica[4];
     int a,b, somap, multiplicap;
